@@ -1,5 +1,5 @@
 {
-  "name": "tg",
+  "name": "8000apiv",
   "version": 2,
   "routes": [
     {"src": "/v1/(.*)","dest": "https://api.lxd.tw/v1/$1"}
